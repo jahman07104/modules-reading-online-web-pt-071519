@@ -10,7 +10,7 @@ class Dancer
     @name = name
   end
   
-  # extend MetaDancing
+   extend MetaDancing
   # FancyDance::ClassMethods
   # include 
   # FancyDance::InstanceMethods
